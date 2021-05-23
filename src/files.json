@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Fancy Folder",
+        "type": "dir",
+        "datetime": "1621765375914",
+        "size": ""
+    },
+    {
+        "name": "a-file.csv",
+        "type": "file",
+        "datetime": "1048576",
+        "size": "graviteits"
+    },
+    {
+        "name": "b-file.csv",
+        "type": "file",
+        "datetime": "1048576",
+        "size": "graviteits"
+    },
+    {
+        "name": "c-file.csv",
+        "type": "file",
+        "datetime": "1048576",
+        "size": "graviteits"
+    },
+    {
+        "name": "d-file.csv",
+        "type": "file",
+        "datetime": "1048576",
+        "size": "1048576"
+    }
+]
