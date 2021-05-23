@@ -2,31 +2,31 @@
     {
         "name": "Fancy Folder",
         "type": "dir",
-        "datetime": "1621765375914",
-        "size": ""
+        "datetime": "1621770220",
+        "size": "0"
     },
     {
         "name": "a-file.csv",
         "type": "file",
-        "datetime": "1048576",
-        "size": "graviteits"
+        "datetime": "1621770220",
+        "size": "1048576"
     },
     {
         "name": "b-file.csv",
         "type": "file",
-        "datetime": "1048576",
-        "size": "graviteits"
+        "datetime": "1621770220",
+        "size": "1048576"
     },
     {
         "name": "c-file.csv",
         "type": "file",
-        "datetime": "1048576",
-        "size": "graviteits"
+        "datetime": "1621770220",
+        "size": "1048576"
     },
     {
         "name": "d-file.csv",
         "type": "file",
-        "datetime": "1048576",
+        "datetime": "1621770220",
         "size": "1048576"
     }
 ]
